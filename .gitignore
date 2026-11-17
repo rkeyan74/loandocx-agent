@@ -1,0 +1,10 @@
+.env
+.venv/
+venv/
+venv312/
+__pycache__/
+*.pyc
+.gradio/
+.claude/
+.cursor/
+page_hits.txt
